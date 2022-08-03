@@ -1,0 +1,17 @@
+.product {
+    display: flex;
+    /* grid-template-columns: 2fr 3fr; */
+    border: 1px solid lightgray;
+
+}
+
+.product img {
+    height: 200px;
+
+    margin-right: 15px;
+}
+
+.product-name {
+    color: rgb(70, 70, 158);
+    font-weight: 400;
+}
